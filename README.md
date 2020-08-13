@@ -1,2 +1,2 @@
-# BULLETS-WALL
-A simulator for wall strength against bullets
+# p5.play-boilerplate
+Boiler plate for p5.play
